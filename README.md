@@ -26,6 +26,16 @@
 - IDL
 - Adapter + Transform
 
+#### 平台开发
+
+- react
+- antd
+- nest / prisma
+- graphql
+- mongodb
+- docker
+  - docker-compose
+
 ---
 
 ### 相关文档
