@@ -25,3 +25,10 @@
 
 - IDL
 - Adapter + Transform
+
+---
+
+### 相关文档
+
++ https://thrift.apache.org/docs/idl
++ [IDL接口定义语言](https://yq.aliyun.com/articles/442861)
